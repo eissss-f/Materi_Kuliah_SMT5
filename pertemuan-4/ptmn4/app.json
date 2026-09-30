@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ptmn4",
+    "slug": "ptmn4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}
